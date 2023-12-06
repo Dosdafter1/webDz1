@@ -1,0 +1,35 @@
+version: '3'
+
+services:
+  api.user.0:
+    build: ./backend/user
+    command: sh -c " npm install && npm start "
+    environment:
+      - SERVER_NAME="Api Jonny"
+    volumes:
+      - ./backend/user/src:/usr/src/app
+    ports:
+      - "80:80"
+
+
+  api.user.1:
+    build: ./backend/user
+    command: sh -c " npm install && npm start "
+    volumes:
+      - ./backend/user/src:/usr/src/app
+    environment:
+      - SERVER_NAME="Api Sunny"
+    ports:
+      - "81:80"
+
+
+  api.user.2:
+    build: ./backend/user
+    command: sh -c " npm install && npm start "
+    volumes:
+      - ./backend/user/src:/usr/src/app
+    environment:
+      - SERVER_NAME="Api Funny"
+    ports:
+      - "82:80"
+

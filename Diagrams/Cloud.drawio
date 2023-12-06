@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T17:08:34.625Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="P55YqKDqIhsZI0d447pQ" version="22.1.7" type="device">
+<mxfile host="app.diagrams.net" modified="2023-12-06T17:22:37.409Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Xt_UhbjMXGBYChd1fkQq" version="22.1.7" type="device">
   <diagram name="Сторінка-1" id="6hSSuIx6LPIKqi1wZvSV">
     <mxGraphModel dx="1400" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="R-gP6RwH8Rs_ocmitFq0-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="480" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-gP6RwH8Rs_ocmitFq0-14" value="Controller" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="R-gP6RwH8Rs_ocmitFq0-14" value="Controller" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R-gP6RwH8Rs_ocmitFq0-15" value="Controller" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
